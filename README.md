@@ -1,5 +1,8 @@
 ### Olá!
-
+-------
+-Graduando em Engenharia de manufatura pela Unicamp.
+-Grande interesse pela área de Ciência de dados.
+-
 <!--
 **BrunoMO47/BrunoMO47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
