@@ -9,7 +9,8 @@
 )
 ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 )
-
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /
+)
 <!--
 **BrunoMO47/BrunoMO47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
