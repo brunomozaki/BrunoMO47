@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Dê uma olhada no meu portifólio clicando no link abaixo ⬇️:
-![Meu por]https://github.com/BrunoMO47/Projetos_pessoais
+![Meu portifolio](https://github.com/BrunoMO47/Projetos_pessoais)
 
 #### Meus contatos:
 
