@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--Linkedin-->
-<button type="button" mdbBtn color="li" class="waves-light" mdbWavesEffect><i class="fab fa-linkedin-in left"></i>Linkedin</button>
+<!--Linkedin--><button type="button" mdbBtn color="li" class="waves-light" mdbWavesEffect><i class="fab fa-linkedin-in left"></i>Linkedin</button>
