@@ -3,9 +3,9 @@
 - Graduando em Engenharia de manufatura pela Unicamp.
 - Grande interesse pela área de Ciência de dados.
 - Atualmente desenvolvendo minhas habilidades em SQL.
--------
-#### Minhas habilidades
 
+#### Minhas habilidades
+[Python](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
 <!--
 **BrunoMO47/BrunoMO47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
