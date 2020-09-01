@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Dê uma olhada no meu portifólio clicando no link abaixo ⬇️:
+#### Dê uma olhada no meu portifólio, clicando no link abaixo ⬇️:
 [Meu portifolio](https://github.com/BrunoMO47/Projetos_pessoais)
 
 #### Meus contatos:
