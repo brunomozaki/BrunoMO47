@@ -1,30 +1,18 @@
-### Olá!
+### Olá! Um pouco sobre mim:
 
 - Sou graduando em Engenharia de manufatura pela Unicamp.
 - Tenho grande interesse pela área de Ciência de dados.
+- Utilizo Python como ferramenta de análise de dados (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn). 
 - Atualmente desenvolvendo minhas habilidades em SQL.
 
-#### Minhas habilidades
+#### Minhas habilidades:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 )
 ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 )
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 )
-<!--
-**BrunoMO47/BrunoMO47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-🌱 Atualmente estou desenvolvendo minhas habilidades em SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
 [Meu portfolio](https://github.com/BrunoMO47/Projetos_pessoais)
 
