@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Dê uma olhada no meu portifólio clicando no link abaixo ⬇️:
+![Meu por]https://github.com/BrunoMO47/Projetos_pessoais
+
 #### Meus contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-massaki-ozaki-3821b0124/)
