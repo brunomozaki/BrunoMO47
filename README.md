@@ -5,7 +5,7 @@
 - Atualmente desenvolvendo minhas habilidades em SQL.
 
 #### Minhas habilidades
-[Python](https://img.shields.io/badge/Python-%23.svg?&style=for-the-badge&logo={ICON}&logoColor=white"
+![Python](https://img.shields.io/badge/Python-%23.svg?&style=for-the-badge&logo=&logoColor=white"
 )
 <!--
 **BrunoMO47/BrunoMO47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
