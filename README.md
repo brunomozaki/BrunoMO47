@@ -14,10 +14,8 @@
 )
 ![Tableau](https://img.shields.io/badge/Tableau%20-%4169E1.svg?&style=for-the-badge&logo=Tableau&logoColor=white
 )
-![Tableau](https://img.shields.io/badge/Tableau%20-%87CEFA.svg?&style=for-the-badge&logo=Tableau&logoColor=white
-)
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
-[Meu portfolio](https://github.com/BrunoMO47/Projetos_pessoais)
+[Meu portfólio](https://github.com/BrunoMO47/Projetos_pessoais)
 
 #### Meus contatos:
 
