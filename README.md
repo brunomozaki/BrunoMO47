@@ -12,11 +12,8 @@
 )
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 )
-![Tableau](https://img.shields.io/badge/Tableau%20-%23F37626.svg?&style=for-the-badge&logo=Tableau&logoColor=white
+![Tableau](https://img.shields.io/badge/Tableau%20-%4169E1.svg?&style=for-the-badge&logo=Tableau&logoColor=white
 )
-![Excel](https://img.shields.io/badge/Excel%20-%23F37626.svg?&style=for-the-badge&logo=Excel&logoColor=white
-)
-
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
 [Meu portfolio](https://github.com/BrunoMO47/Projetos_pessoais)
 
