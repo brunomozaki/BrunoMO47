@@ -6,7 +6,7 @@
 - No processo de ELT, utilizo a ferramenta dbt para transformações; 
 - Atualmente desenvolvendo minhas habilidades em Airflow.
 
-#### Minhas habilidades:
+#### Minhas habilidades/stack:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 )
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white
