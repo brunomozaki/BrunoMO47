@@ -1,7 +1,7 @@
 ### Olá! Um pouco sobre mim:
 
 - Sou Cientista de Dados Jr, formado em Engenharia de manufatura pela Unicamp; 
-- Tenho grande interesse pela área de dados que incluem desde engenharia de dados, passando por analytics engineering e ciência de dados; 
+- Tenho grande interesse pela área de dados (DS, DE, AE, ML); 
 - Utilizo Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly) e SQL como principais ferramentas de análise, manipulação e extração de dados; 
 - No processo de ELT, utilizo a ferramenta dbt para transformações; 
 - Atualmente desenvolvendo minhas habilidades em Airflow.
