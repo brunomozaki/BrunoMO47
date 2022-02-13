@@ -13,11 +13,13 @@
 )
 ![dbt](https://img.shields.io/badge/dbt%20-ff6c4c.svg?&style=for-the-badge&logo=dbt&logoColor=white
 )
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
+![git](https://img.shields.io/badge/git%20-ec4c34.svg?&style=for-the-badge&logo=git&logoColor=white
 )
-![PowerBI](https://img.shields.io/badge/PowerBI%20-%4169E1.svg?&style=for-the-badge&logo=powerbi&logoColor=white
+![Jupyter](https://img.shields.io/badge/Jupyter%20-23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 )
-![snowflake](https://img.shields.io/badge/snowflake%20-%42bbcf2.svg?&style=for-the-badge&logo=snowflake&logoColor=white
+![PowerBI](https://img.shields.io/badge/PowerBI-%f0c414.svg?&style=for-the-badge&logo=powerbi&logoColor=white
+)
+![snowflake](https://img.shields.io/badge/snowflake-%42bbcf2.svg?&style=for-the-badge&logo=snowflake&logoColor=white
 )
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
 [Meu portfólio](https://github.com/BrunoMO47/Projetos_pessoais)
