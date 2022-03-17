@@ -22,7 +22,7 @@
 ![snowflake](https://img.shields.io/badge/snowflake-%42bbcf2.svg?&style=for-the-badge&logo=snowflake&logoColor=white
 )
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
-[Meu portfólio](https://github.com/BrunoMO47/Projetos_pessoais)
+[Meu portfólio](https://github.com/brunomozaki/Projetos_pessoais)
 
 #### Meus contatos:
 
