@@ -4,7 +4,7 @@
 - Tenho grande interesse pela área de dados (DS, DE, AE, ML); 
 - Utilizo Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly) e SQL como principais ferramentas de análise, manipulação e extração de dados; 
 - No processo de ELT, utilizo a ferramenta dbt para transformações; 
-- Atualmente desenvolvendo minhas habilidades em Airflow.
+- Atualmente desenvolvendo minhas habilidades em PySpark.
 
 #### Minhas habilidades/stack:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
