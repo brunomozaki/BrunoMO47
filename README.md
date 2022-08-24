@@ -1,7 +1,7 @@
 ### Olá! Um pouco sobre mim:
 
-- Sou Cientista de Dados Jr, formado em Engenharia de manufatura pela Unicamp; 
-- Tenho grande interesse pela área de dados (DS, DE, AE, ML); 
+- Atualmente atuo como Analytics Engineer; 
+- Tenho grande interesse pela área de dados; 
 - Utilizo Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly) e SQL como principais ferramentas de análise, manipulação e extração de dados; 
 - No processo de ELT, utilizo a ferramenta dbt para transformações; 
 - Atualmente desenvolvendo minhas habilidades em PySpark.
@@ -20,6 +20,8 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-%f0c414.svg?&style=for-the-badge&logo=powerbi&logoColor=white
 )
 ![snowflake](https://img.shields.io/badge/snowflake-%42bbcf2.svg?&style=for-the-badge&logo=snowflake&logoColor=white
+)
+![R](https://img.shields.io/badge/R-%23427399.svg?&style=for-the-badge&logo=r&logoColor=white
 )
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
 [Meu portfólio](https://github.com/brunomozaki/Projetos_pessoais)
