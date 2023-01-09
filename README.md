@@ -1,7 +1,6 @@
 ### Olá! Um pouco sobre mim:
 
 - Atualmente atuo como Analytics Engineer; 
-- Tenho grande interesse pela área de dados; 
 - Utilizo Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly) e SQL como principais ferramentas de análise, manipulação e extração de dados; 
 - No processo de ELT, utilizo a ferramenta dbt para transformações; 
 - Atualmente desenvolvendo minhas habilidades em PySpark.
