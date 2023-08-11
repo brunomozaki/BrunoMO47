@@ -1,14 +1,13 @@
 ### Olá! Um pouco sobre mim:
 
-- Atualmente atuo como Analista de Business Analytics; 
-- Utilizo Python(Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Plotly) e SQL como principais ferramentas de análise, manipulação e extração de dados; 
-- No processo de ELT, utilizo a ferramenta dbt para transformações; 
-- Atualmente desenvolvendo minhas habilidades em PySpark.
+- Atualmente atuo como Analista de Business Analytics
 
 #### Minhas habilidades/stack:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
 )
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?&style=for-the-badge&logo=sql&logoColor=white
+)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white
 )
 ![dbt](https://img.shields.io/badge/dbt%20-ff6c4c.svg?&style=for-the-badge&logo=dbt&logoColor=white
 )
@@ -22,6 +21,9 @@
 )
 ![R](https://img.shields.io/badge/R-%23427399.svg?&style=for-the-badge&logo=r&logoColor=white
 )
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+)
+
 #### Dê uma olhada no meu portfólio, clicando no link abaixo ⬇️:
 [Meu portfólio](https://github.com/brunomozaki/Projetos_pessoais)
 
