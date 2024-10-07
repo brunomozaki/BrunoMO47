@@ -1,6 +1,6 @@
 ### Olá! Um pouco sobre mim:
 
-- Atualmente atuo como Analista de Business Analytics
+- Atualmente atuo como Analytics Engineer
 
 #### Minhas habilidades/stack:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white
